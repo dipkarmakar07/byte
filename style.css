@@ -1,0 +1,12 @@
+.card:hover {
+    transform: translateY(-5px);
+    transition: transform 0.3s ease;
+}
+#ca:hover {
+    transform: translateY(-5px);
+    transition: transform 0.3s ease;
+}
+
+.icon {
+    font-size: 24px;
+}
